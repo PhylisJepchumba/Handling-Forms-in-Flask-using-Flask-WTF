@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+  
+   
+}
+.form{
+  width: 700px;
+  height: 600px;
+  border: 1px solid blue;
+  box-sizing: border-box;
+  background-color: aqua;
+  display: flexbox;
+}
